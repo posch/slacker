@@ -1,0 +1,9 @@
+# Slackware current  	
+s   rsync://ftp6.gwdg.de/pub/linux/slackware/slackware64-current/slackware64
+e   rsync://ftp6.gwdg.de/pub/linux/slackware/slackware64-current/extra
+t   rsync://ftp6.gwdg.de/pub/linux/slackware/slackware64-current/testing
+
+# alien bob
+eh	http://www.slackware.com/~alien/slackbuilds/
+
+
